@@ -10,4 +10,6 @@ I'm an aspiring SOC Analyst / Cybersecurity enthusiast 🛡️
 🌟 My goal is to grow as a professional SOC Analyst and help protect systems and data from cyber threats 🖥️🔒
 
 📫 You can find me
-💼 LinkedIn: [LinkedIn]([https://www.linkedin.com/in/..](https://www.linkedin.com/in/alejandro-ponce-b950352a2/).)
+💼 LinkedIn: [TuLinkedIn](https://www.linkedin.com/in/...)  
+🌍 GitHub: [Aleexx21](https://github.com/Aleexx21)
+
