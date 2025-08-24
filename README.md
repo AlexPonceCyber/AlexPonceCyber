@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi! Alex here! 👋
 
-<!--
-**AlexPonceCyber/AlexPonceCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring SOC Analyst / Cybersecurity enthusiast 🛡️
 
-Here are some ideas to get you started:
+🏗️ What I do
+🌱 I’m currently learning CompTIA Security+ (SY0-701) and practicing SOC skills on TryHackMe SOC Level 1.
+💻 Hands-on labs with Wireshark, Splunk, traffic analysis, and threat detection.
+📓 Formerly studying basic IT and network concepts to build a solid foundation for cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 My goal is to grow as a professional SOC Analyst and help protect systems and data from cyber threats 🖥️🔒
+
+📫 You can find me
+💼 LinkedIn: [LinkedIn]([https://www.linkedin.com/in/..](https://www.linkedin.com/in/alejandro-ponce-b950352a2/).)
