@@ -1,6 +1,6 @@
 <h2 align="center">Hi! I'm Alejandro 👋</h2>
 
-## Web application development and systems technician, currently studying the
+Web application development and systems technician, currently studying the
 **Specialization Course in Software Product Deployment in Containers**.
 
 ## 🛠️ What I'm doing now
