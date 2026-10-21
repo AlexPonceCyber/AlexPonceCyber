@@ -1,16 +1,20 @@
-<h2 align="center">Hi! Alex here! 👋</h2>
+<h2 align="center">Hi! I'm Alejandro 👋</h2>
 
-### I'm an aspiring SOC Analyst / Cybersecurity enthusiast 🛡️
+## Web application development and systems technician, currently studying the
+**Specialization Course in Software Product Deployment in Containers**.
 
-### 🏗️ What I do
+## 🛠️ What I'm doing now
 
-🌱 I’m currently learning CompTIA Security+ (SY0-701) and practicing SOC skills on TryHackMe SOC Level 1.  
-💻 Hands-on labs with Wireshark, Splunk, traffic analysis, and threat detection.  
-📓 Formerly studying basic IT and network concepts to build a solid foundation for cybersecurity.
+- 📦 Learning to deploy applications with containers (Docker)
+- 🔀 Working with Git and GitHub: branches, merges, conflicts and remote repositories
+- 💻 Web development with Java and JavaScript
+- 🖥️ Windows and Linux system administration, and networking
 
-🌟 My goal is to grow as a professional SOC Analyst and help protect systems and data from cyber threats 🖥️🔒
+## 🌱 My interests
 
-### 📫 You can find me  
-💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/alejandro-ponce-b950352a2/)  
+- DevOps, continuous integration and deployment automation
+- Information security applied to system administration
 
+### 📫 You can find me 
 
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/alejandro-ponce-b950352a2/) 
